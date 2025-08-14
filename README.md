@@ -36,4 +36,4 @@ The dataset used (`churn.csv`) contains customer demographic and account informa
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/churn-prediction.git
+   git clone https://github.com/assiaaitjeddi/bank-customer-churn-decision-tree.git
